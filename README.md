@@ -21,13 +21,13 @@ It analyzes medical examination data and visualizes the relationship between lif
 
 ### Categorical Plot
 
-![Cat Plot](fig1_fcc.png)
+![Cat Plot](fig1,fcc.png)
 
 ---
 
 ### Heatmap
 
-![Heatmap](fig2_fcc.png)
+![Heatmap](fig2,fcc.png)
 
 ---
 
